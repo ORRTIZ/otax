@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <SecurityGroupPermission groupId="FULLADMIN" permissionId="otax_ADMIN"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="otax_CREATE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="otax_DELETE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="otax_UPDATE"/>
+    <SecurityGroupPermission groupId="FLEXADMIN" permissionId="otax_VIEW"/>
+    <SecurityGroupPermission groupId="VIEWADMIN" permissionId="otax_VIEW"/>
+    <SecurityGroupPermission groupId="BIZADMIN" permissionId="otax_ADMIN"/>
+</entity-engine-xml>
