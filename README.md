@@ -6,8 +6,7 @@
 Tax Authority Management &amp; Reporting for Apache OFBiz™ and ORRTIZ™ BMS.
 
 ## More information
-This is part of the disentanglement effort of the ORRTIZ team to get to components as concise possible. This is an optional component.
-
+This is part of the disentanglement effort of the ORRTIZ team to get to components as concise possible.
 
 ## License
 © 2015 Copyright Somonar B.V.
